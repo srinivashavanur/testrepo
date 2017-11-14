@@ -1,0 +1,32 @@
+UI/UX practices
+
+Application architecture
+
+ADO.NET
+
+ENTITY FRAMEWORK
+
+LINQ to Objects
+
+LINQ to SQL
+
+STORED PROCEDURES
+
+FUNCTIONS
+
+XSD Validation
+
+XSLT 
+
+Git
+
+SVN
+
+PROJECTS
+
+Design patterns
+
+SOLID Design principles
+
+All types of testing performed.
+
